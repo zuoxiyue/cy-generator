@@ -5,5 +5,5 @@
 /target/
 *.iml
 /outRoot/
-src/main/java/com/cy/GenApplication.java
-/src/main/resources/
+
+将删除 .idea/workspace.xml
